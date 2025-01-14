@@ -1,11 +1,11 @@
 
 # Medical Chatbot with RLHF
 
-A Streamlit-based medical chatbot that uses LangChain, Groq, and various other technologies to provide medical information and answer health-related questions./n
-Example 1
+A Streamlit-based medical chatbot that uses LangChain, Groq, and various other technologies to provide medical information and answer health-related questions.
+- Example 1
 
 ![Example2](img/2.jpeg)
-Example 2
+- Example 2
 ![Example1](img/1.jpeg)
 
 ## Features
