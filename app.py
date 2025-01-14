@@ -53,7 +53,7 @@ if st.sidebar.button("Clear message history"):
     memory.clear()
 
 retriever = retriever(n_docs=n_docs)
-# Create Chain
+# Create Chain.
 chain = get_expression_chain(retriever,model_name,temp)
 
 for msg in st.session_state.langchain_messages:
