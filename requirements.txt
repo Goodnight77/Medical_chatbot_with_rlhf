@@ -9,9 +9,10 @@ python-dotenv
 langchain-community 
 rank_bm25 
 cohere 
-nomic[local] 
+"nomic[local]"
 streamlit-feedback 
 qdrant-client 
 langchain-cohere
-langchain-huggingface
+langchain_huggingface
+langchain_nomic
 
