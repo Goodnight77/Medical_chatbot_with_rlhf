@@ -123,25 +123,3 @@ streamlit run app.py
 4. View the response and provide feedback using the feedback widget
 5. Access consulted documents from the sidebar
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- LangChain for the chain and memory management
-- Groq for the language models
-- Qdrant for vector similarity search
-- Streamlit for the web interface
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers.
