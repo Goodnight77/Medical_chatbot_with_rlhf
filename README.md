@@ -15,7 +15,7 @@ A Streamlit-based medical chatbot that uses LangChain, Groq, and various other t
 
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.10+
 - Pip package manager
 - Git
 
