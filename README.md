@@ -104,6 +104,9 @@ langchain-chroma
 nomic
 cohere
 chromadb
+langchain_huggingface
+langchain_nomic
+"nomic[local]"
 ```
 
 ## Running the Application
