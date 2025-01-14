@@ -23,8 +23,8 @@ A Streamlit-based medical chatbot that uses LangChain, Groq, and various other t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/medical-chatbot.git
-cd medical-chatbot
+git clone https://github.com/Goodnight77/Medical_chatbot_with_rlhf.git
+cd Medical_chatbot_with_rlhf
 ```
 
 2. Create a virtual environment:
