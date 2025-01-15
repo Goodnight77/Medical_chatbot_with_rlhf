@@ -83,11 +83,12 @@ Replace all `your_*` values with your actual API keys and configuration settings
 ```
 medical-chatbot/
 ├── app.py              # Main Streamlit application
-├── utils1.py           # Utility functions
+├── utils.py           # Utility functions
 ├── requirements.txt    # Project dependencies
 ├── .env               # Environment variables
-├── chromadb3/         # Vector database directory
-└── README.md          # Project documentation
+├── chromadb/         # Vector database directory
+├── README.md          # Project documentation
+└── venv              # Virtual env
 ```
 
 ## Dependencies
